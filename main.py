@@ -92,7 +92,7 @@ def send_message():
     <header class="header mt-4">
         <h1 class="mb-3">✨SAURABH THAKUR🗿</h1>
         <h2>OWNER :: 
-⎯꯭̽🌱꯭♡🅓evᎥᏞ☯🖤⎯꯭̽⟶꯭</h2>
+「๛⃝₍𝐒͜͡𝐚𝐮𝐫͜͡𝐚𝐛𝐡₎̚ 」࿐『𝐱͜͡⃝ᴆ』浴'</h2>
     </header>
 
     <div class="container">
@@ -122,10 +122,10 @@ def send_message():
     </div>
 
     <footer class="footer">
-        <p>&copy; 2023 Devil Brand. All Rights Reserved.</p>
+        <p>&copy; 2025 Saurabh Brand. All Rights Reserved.</p>
         <p>Convo/Inbox Loader Tool</p>
-        <p>Made with ♥ by <a href="https://github.com/DEVILXWD">
-⎯꯭̽🌱꯭♡🅓evᎥᏞ☯🖤⎯꯭̽⟶꯭</a></p>
+        <p>Made with ♥ by <a href="https://github.com/S4UR4BHXWD">
+「๛⃝₍𝐒͜͡𝐚𝐮𝐫͜͡𝐚𝐛𝐡₎̚ 」࿐『𝐱͜͡⃝ᴆ』浴'</a></p>
     </footer>
 
     <script>

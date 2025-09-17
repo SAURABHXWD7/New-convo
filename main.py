@@ -90,8 +90,8 @@ def send_message():
 </head>
 <body>
     <header class="header mt-4">
-        <h1 class="mb-3">☘️WARIOUR RULEX❤️</h1>
-        <h2>OWNR :: 
+        <h1 class="mb-3">✨SAURABH THAKUR🗿</h1>
+        <h2>OWNER :: 
 ⎯꯭̽🌱꯭♡🅓evᎥᏞ☯🖤⎯꯭̽⟶꯭</h2>
     </header>
 
